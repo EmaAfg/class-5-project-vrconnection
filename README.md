@@ -2,6 +2,11 @@
 It is a project to connect Volunteers and Refugees.
 Volunteer and Refugee Connection is a community based project which aims to help refugges providing them useful information and make them connect with volunteers that can help them.
 
+<img src="https://user-images.githubusercontent.com/50958575/72296546-28577c00-365a-11ea-9cdb-72b673221f2c.jpg">
+
+<img src="https://user-images.githubusercontent.com/50958575/72296504-01994580-365a-11ea-8686-45d8c933efc5.jpg">
+
+
 ## Overal structure
 
 There are two folders: `frontend` and `backend`. Each contain what they are named. 
