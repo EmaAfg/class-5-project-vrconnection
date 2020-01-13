@@ -1,4 +1,6 @@
-# class-5-project
+# VRConnection
+It is a project to connect Volunteers and Refugees.
+Volunteer and Refugee Connection is a community based project which aims to help refugges providing them useful information and make them connect with volunteers that can help them.
 
 ## Overal structure
 
